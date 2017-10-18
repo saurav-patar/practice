@@ -1,0 +1,70 @@
+git --version
+git config --global user.name ""
+git config --global user.email ""
+
+git config --list
+
+git config --help
+git help config
+
+track using git
+ 
+git init
+
+ls -la
+rm -rf git
+
+before commit run
+git status
+
+touch .gitignore
+
+git add -A all files are added
+
+git add .gitignore
+
+//it goes to stagging area
+
+//remove file form stagging area
+git reset file
+
+name
+
+everything
+
+
+
+git add -A
+git status
+git commit -m "Initial Commit"
+git log
+
+
+
+
+
+
+
+git clone <url> .
+
+git remote -v
+
+git branch -a
+
+git diff
+
+git pull origin master
+
+git push origin master
+
+git branch nameBranch
+
+git checkout nameBranch
+
+git push -u origin nameBranch
+
+git branch --merged
+git merge nameBranch
+git push origin maste
+git branch -d calc-divide
+git push origin --delete calc-divide
