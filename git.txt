@@ -63,6 +63,10 @@ git checkout nameBranch
 
 git push -u origin nameBranch
 
+
+
+// to merge the branches into the master branch
+
 git branch --merged
 git merge nameBranch
 git push origin maste
